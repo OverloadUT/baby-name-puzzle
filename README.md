@@ -4,6 +4,8 @@ baby-name-puzzle
 This is a terrible hacked-together Node program I wrote in the wee-hours of the morning for a baby-name reveal puzzle
 for my family. Open sourcing it just for the hell of it.
 
+Details of the puzzle are in [this blog post](http://greglaabs.com/2015/01/and-the-babys-name-is/)
+
 
 
 
